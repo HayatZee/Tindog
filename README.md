@@ -1,2 +1,2 @@
 # Tindog
-A tinder website for matching caring humans with cute dogs.
+A tinder website to match caring humans with cute dogs.
